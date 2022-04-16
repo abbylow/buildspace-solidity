@@ -19,4 +19,4 @@ npx hardhat run scripts/deploy.js --network rinkeby
 
 ```
 
-## Frontend Project: https://github.com/abbylow/buildspace-solidity-frontend
+Frontend Project: https://github.com/abbylow/buildspace-solidity-frontend
